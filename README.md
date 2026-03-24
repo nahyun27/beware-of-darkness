@@ -88,5 +88,6 @@ Simple mechanics. Mounting dread.
 ---
 
 <p align="center">
-  Made with Unity &nbsp;·&nbsp; C# &nbsp;·&nbsp; 🖤
+  Made with Unity &nbsp;·&nbsp; C# &nbsp;·&nbsp; 🖤 <br/>
+  <sub>2020.08 &nbsp;·&nbsp; Team 영하나</sub>
 </p>
